@@ -111,3 +111,6 @@ Streamlit Dashboard adalah antarmuka front-end utama yang digunakan user untuk m
     - Tanggal publikasi
   - Ringkasan AI yang padat
   - Link “Baca di sumber asli”
+
+# 🌟 Conclusion
+AI News Aggregator adalah solusi end-to-end yang mengubah proses konsumsi berita dari manual menjadi otomatis. Proyek ini memberikan informasi yang lebih ringkas, relevan, dan mudah dipahami, sekaligus menghemat waktu pengguna dan meningkatkan daya analisis. Sistem ini sangat bermanfaat bagi individu maupun perusahaan yang bergantung pada informasi untuk mengambil keputusan. AI News Aggregator berhasil membuktikan bahwa sistem berbasis LLM dapat digunakan secara efektif untuk mengotomatiskan proses pengumpulan, analisis, dan penyajian informasi dari sumber berita yang tersebar. Dengan mengintegrasikan RSS fetching, LLM summarization, topic & sentiment classification, database storage, automation scheduling, dan dashboard visualisasi, proyek ini menghasilkan sebuah platform yang bekerja secara mandiri, memberikan update berita harian tanpa intervensi manual.
