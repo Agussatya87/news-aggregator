@@ -97,11 +97,10 @@ Ini adalah inti automation dalam project: workflow n8n yang mengirimkan email se
 
 Streamlit Dashboard adalah antarmuka front-end utama yang digunakan user untuk membaca, memfilter, dan menelusuri berita secara visual.
 🔍 Komponen Penting pada Dashboard:
-- 🎛️ Sidebar Filters
+- 🎛️ Sidebar Filters : Fitur ini memungkinkan user menyesuaikan tampilan sesuai kebutuhan mereka.
   - Filter category — politics, technology, sports, dll.
   - Number of news — slider untuk memilih jumlah artikel yang ditampilkan
   - Keyword search — pencarian cepat berdasarkan kata kunci
-  - Fitur ini memungkinkan user menyesuaikan tampilan sesuai kebutuhan mereka.
 - 🖼️ Article Display Panel
   - Gambar utama artikel
   - Metadata lengkap:
